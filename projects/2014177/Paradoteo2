@@ -7,3 +7,8 @@ Repository(Super-Mario): https://github.com/DionyshsTetradhs/Super-Mario
 Game: https://dionyshstetradhs.github.io/Super-Mario/
 
 # ΠΑΡΑΔΟΤΕΟ 2 
+Έγιναν μικρές αλλαγές στην πίστα χρησιμοποιώντας το Tiled.
+Άλλαξα την εμφάνιση του Souper Mario έτσι ώστε να μιάζει με τον Luigi
+Άλλαξα το animation των coin για να φαίνονται σαν να περιστρέφονται
+Πρόσθεσα το theme song tou Mario και ήχο για όταν συλλέγεις ενα coin(Για κάποιο λόγο οι ήχοι δεν δουλέυν αλλά λογικά θα έχω βρεί
+το πρόβλημα μεχρι το άλλο παραδοτέο)
